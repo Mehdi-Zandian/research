@@ -1,4 +1,4 @@
-# Mahdi Zandina
+# Mahdi Zandian
 
 #### SQL vs NoSQL:
 
